@@ -1,10 +1,8 @@
 # Example repo for Mybinder
 
-**Test out accessing analysis.R script via MyBinder and RStudio**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewmoles2/MyBinder-example/master?urlpath=rstudio)
+**Test out accessing analysis.R script via MyBinder and RStudio**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewmoles2/MyBinder-example/master?urlpath=rstudio)
 
-**test out MyBinder with learnr via MyBinder**
-
+**test out MyBinder with learnr via MyBinder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewmoles2/MyBinder-example/master?urlpath=shiny%2Flearnr_example%2F)
 
 [Source of example learnr tutorial](https://github.com/rstudio/learnr/blob/main/inst/tutorials/ex-data-summarise/ex-data-manip-summarise.Rmd)
 
